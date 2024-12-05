@@ -23,8 +23,8 @@ meta:
 
 common:
 	ADDON_INCLUDES = libs/include
-	ADDON_SOURCES += src/LDtkLoader.h
-	ADDON_INCLUDES += src
+	# ADDON_SOURCES += src/LDtkLoader.h
+	# ADDON_INCLUDES += src
 	# ADDON_SOURCES += libs/LDtkLoader/src
 
 	# ADDON_SOURCES_EXCLUDE += libs/include/xxx/utf8.h
